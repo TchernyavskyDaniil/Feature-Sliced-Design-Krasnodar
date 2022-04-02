@@ -25,7 +25,8 @@
          
 #### Что пригодится
 
-[Webpack Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin#basic-usage)
+[Webpack Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin#basic-usage) - Судя по ишью, не подойдет для 5 версии вебпака  
+[Dpdm](https://github.com/acrazing/dpdm) - Статический анализ зависимостей
 
 [Eslint no-cycle](https://github.com/import-js/eslint-plugin-import/blob/main/docs/rules/no-cycle.md)
 
