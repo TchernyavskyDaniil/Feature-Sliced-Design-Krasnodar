@@ -7,6 +7,10 @@
 
 ### Интересное по Feature Sliced
 
+[Про модалки](https://t.me/feature_sliced/10987)
+
+[Где располагать Layout (Header/Footer/...)](https://t.me/feature_sliced/10960)
+
 [Немного про Redux](https://t.me/feature_sliced/3881)
 
 [Про бизнес - сущность](https://t.me/feature_sliced/12779)  
