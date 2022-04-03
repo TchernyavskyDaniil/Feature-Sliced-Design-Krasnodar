@@ -5,6 +5,18 @@
 
 ## Материалы
 
+### Интересное по теории Feature Sliced
+
+[Entities vs Features vs ...](https://github.com/feature-sliced/documentation/discussions/373#discussioncomment-1869448)  
+
+[Формулировка определения "Feature"](https://github.com/feature-sliced/documentation/discussions/23#discussioncomment-451017)
+
+### Минутка истории
+
+[Vertical Slices](https://jimmybogard.com/vertical-slice-architecture/)
+
+[Еще про Vertical Slices](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
+
 ### Примеры 
 
 [Структура с Atomic Design](https://sova.dev/ru/application-structure/#1-struktura-feature)  
