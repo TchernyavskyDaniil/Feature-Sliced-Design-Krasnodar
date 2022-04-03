@@ -5,7 +5,11 @@
 
 ## Материалы
 
-### Интересное по теории Feature Sliced
+### Интересное по Feature Sliced
+
+[Немного про Redux](https://t.me/feature_sliced/3881)
+
+[Про бизнес - сущность](https://t.me/feature_sliced/12779)  
 
 [Entities vs Features vs ...](https://github.com/feature-sliced/documentation/discussions/373#discussioncomment-1869448)  
 
@@ -49,3 +53,7 @@ Plant UML:
 [WS](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
 
 [VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+
+## Остальное
+
+[Что такое бизнес логика](https://youtu.be/9DW-xdwjop8)
