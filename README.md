@@ -11,6 +11,8 @@
 
 ### Интересное по Feature Sliced
 
+[Про разделение хуков по смыслу](https://t.me/feature_sliced/11303)
+
 [Мифический слой Processes](https://github.com/feature-sliced/documentation/discussions/386)
 
 [Про shared/api](https://t.me/feature_sliced/11340)
