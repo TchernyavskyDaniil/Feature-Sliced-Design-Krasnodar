@@ -86,6 +86,10 @@ Plant UML:
 
 ## Остальное
 
+[Структура приложения от Sova](https://sova.dev/ru/application-structure/)
+
 [Что такое бизнес логика](https://youtu.be/9DW-xdwjop8)
 
 [Почему utils & helpers это свалка](https://sova.dev/ru/why-utils-and-helpers-is-a-dump/)
+
+[Структура моделей Effector](https://sova.dev/ru/effector-model-structure/)
