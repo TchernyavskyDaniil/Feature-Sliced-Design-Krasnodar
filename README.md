@@ -35,6 +35,8 @@
 
 [Формулировка определения "Feature"](https://github.com/feature-sliced/documentation/discussions/23#discussioncomment-451017)
 
+[Про side effects free для Webpack, для Public API](https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free)
+
 ### Минутка истории
 
 [MV* - ui патерны](https://medium.com/you-gotta-get-schwifty/%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BD%D0%B0-mvc-mvp-%D0%B8-mvvm-389841cefa70)
@@ -60,6 +62,8 @@
 [Sharead-frontend](https://github.com/select-name/sharead-frontend)
 
 [Effector real world](https://github.com/mg901/effector-react-realworld-example-app/tree/master/src)
+
+[Еще примеры из доки](https://feature-sliced.design/examples)
 
 ### Про миграцию/рефакторинг
 
