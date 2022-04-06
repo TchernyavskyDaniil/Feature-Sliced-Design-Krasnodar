@@ -51,6 +51,8 @@
 
 [Еще про Vertical Slices](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 
+[Про декомпозиацию](https://feature-sliced.design/docs/get-started/cheatsheet)
+
 ### Примеры 
 
 [Структура с Atomic Design](https://sova.dev/ru/application-structure/#1-struktura-feature)  
