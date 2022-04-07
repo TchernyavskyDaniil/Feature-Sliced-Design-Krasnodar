@@ -53,8 +53,6 @@
 
 [Еще про Vertical Slices](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 
-[Про декомпозиацию](https://feature-sliced.design/docs/get-started/cheatsheet)
-
 ### Примеры 
 
 [Структура с Atomic Design](https://sova.dev/ru/application-structure/#1-struktura-feature)  
@@ -93,6 +91,10 @@ Plant UML:
 [VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 
 ## Остальное
+
+[Про декомпозицию](https://feature-sliced.design/docs/get-started/cheatsheet)
+
+[Про Isolation](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/)
 
 [Структура приложения от Sova](https://sova.dev/ru/application-structure/)
 
