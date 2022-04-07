@@ -11,6 +11,8 @@
 
 ### Интересное по Feature Sliced
 
+[Eslint-config, CRA-template, CLI и многое полезеное по FS](https://github.com/orgs/feature-sliced/repositories) 
+
 [Про разделение хуков по смыслу](https://t.me/feature_sliced/11303)
 
 [Мифический слой Processes](https://github.com/feature-sliced/documentation/discussions/386)
