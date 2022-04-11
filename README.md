@@ -41,9 +41,11 @@
 
 [Про side effects free для Webpack, для Public API](https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free)
 
-[Feature Sliced Angular пример](https://github.com/feature-sliced/examples/discussions/17)
+[FS Angular разбор](https://github.com/feature-sliced/examples/discussions/17)
 
-[Feature Sliced Vue пример](https://github.com/EliseyMartynov/fs-vue/discussions/2)
+[FS Vue разбор](https://github.com/EliseyMartynov/fs-vue/discussions/2)
+
+[FS NextJs разбор](https://github.com/feature-sliced/documentation/discussions/382)
 
 ### Минутка истории
 
@@ -82,6 +84,8 @@
 [С легаси](https://feature-sliced.design/docs/guides/migration/from-legacy)
          
 #### Что пригодится
+
+[FS Eslint - config (Beta)](https://github.com/feature-sliced/eslint-config)
 
 [Webpack Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin#basic-usage) - Судя по ишью, не подойдет для 5 версии вебпака  
 [Dpdm](https://github.com/acrazing/dpdm) - Статический анализ зависимостей
