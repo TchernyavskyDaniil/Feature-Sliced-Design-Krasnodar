@@ -37,7 +37,13 @@
 
 [Формулировка определения "Feature"](https://github.com/feature-sliced/documentation/discussions/23#discussioncomment-451017)
 
+[Интересное про Public API](https://github.com/feature-sliced/documentation/discussions/427)
+
 [Про side effects free для Webpack, для Public API](https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free)
+
+[Feature Sliced Angular пример](https://github.com/feature-sliced/examples/discussions/17)
+
+[Feature Sliced Vue пример](https://github.com/EliseyMartynov/fs-vue/discussions/2)
 
 ### Минутка истории
 
@@ -92,7 +98,7 @@ Plant UML:
 
 ## Остальное
 
-[Про декомпозицию](https://feature-sliced.design/docs/get-started/cheatsheet)
+[Про декомпозицию и примеры](https://feature-sliced.design/docs/get-started/cheatsheet)
 
 [Про Isolation](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/)
 
