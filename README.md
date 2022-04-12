@@ -23,6 +23,8 @@
 
 [Про shared segments, assets и тд](https://github.com/feature-sliced/documentation/discussions/397#discussioncomment-1869420)
 
+[Немного про UI](https://t.me/feature_sliced/17428)
+
 [Про модалки](https://t.me/feature_sliced/10987)
 
 [Где располагать Layout (Header/Footer/...)](https://t.me/feature_sliced/10960)
