@@ -104,6 +104,8 @@ Plant UML:
 
 ## Остальное
 
+[Про Feature Sliced v1](https://t.me/feature_slices/2)
+
 [Про декомпозицию и примеры](https://feature-sliced.design/docs/get-started/cheatsheet)
 
 [Про Isolation](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/)
