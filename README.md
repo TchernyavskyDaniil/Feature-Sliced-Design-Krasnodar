@@ -104,6 +104,8 @@ Plant UML:
 
 ## Остальное
 
+[Нужна ли методология?](https://github.com/feature-sliced/documentation/discussions/27)
+
 [Про Feature Sliced v1](https://t.me/feature_slices/2)
 
 [Про декомпозицию и примеры](https://feature-sliced.design/docs/get-started/cheatsheet)
