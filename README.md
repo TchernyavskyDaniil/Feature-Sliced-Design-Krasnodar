@@ -7,9 +7,15 @@
 ## Презентация
 
 
+[Github Feature Sliced](https://github.com/feature-sliced)
+
+[Группа в Telegram](https://t.me/feature_sliced)
+
 ## Материалы
 
 ## Доклады по Feature Sliced
+
+Я бы очень советовал посмотреть этот доклад, некоторые аспекты лучше и качественней раскрыты чем у меня, пришлось что - то упрощать/вырезать из-за таймингов
 
 [Доклад: Feature Sliced — Архитектура Frontend проектов / Илья Азин](https://youtu.be/SnzPAr_FJ7w)
 
