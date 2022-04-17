@@ -27,6 +27,8 @@
 
 [Про модалки](https://t.me/feature_sliced/10987)
 
+[Про React hooks](https://github.com/feature-sliced/documentation/discussions/380)
+
 [Где располагать Layout (Header/Footer/...)](https://t.me/feature_sliced/10960)
 
 [Немного про Redux](https://t.me/feature_sliced/3881)
