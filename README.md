@@ -9,6 +9,12 @@
 
 ## Материалы
 
+## Доклады по Feature Sliced
+
+[Доклад: Feature Sliced — Архитектура Frontend проектов / Илья Азин](https://youtu.be/SnzPAr_FJ7w)
+
+[Презентация](https://docs.google.com/presentation/d/1OKtAOP4pQ0IZXyEHx0_L1jrOL_-m8Fyxuq_Cw13UxkA/edit#slide=id.p1)
+
 ### Интересное по Feature Sliced
 
 [Eslint-config, CRA-template, CLI и многое полезеное по FS](https://github.com/orgs/feature-sliced/repositories) 
@@ -51,7 +57,7 @@
 
 [FS NextJs разбор](https://github.com/feature-sliced/documentation/discussions/382)
 
-### Минутка истории
+### Про подходы к архитектуре (в приоритете с оглядкой на Frontend)
 
 [MV* - ui патерны](https://medium.com/you-gotta-get-schwifty/%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BD%D0%B0-mvc-mvp-%D0%B8-mvvm-389841cefa70)
 
@@ -61,9 +67,15 @@
 
 [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
+[Atomic Design: What is it and why is it important in 2022?](https://youtu.be/Yi-A20x2dcA)
+
 [Vertical Slices](https://jimmybogard.com/vertical-slice-architecture/)
 
 [Еще про Vertical Slices](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
+
+[Feature Driven Architecture - Oleg Isonen](https://youtu.be/BWAeYuWFHhs)
+
+[Live-coding: Чистая архитектура во фронтенде / Александр Беспоясов](https://youtu.be/h4WQRqNjmX0)
 
 ### Примеры 
 
@@ -105,6 +117,8 @@ Plant UML:
 [VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 
 ## Остальное
+
+[Youtube Feature Sliced](https://www.youtube.com/channel/UCkng_PHLatpDKPOIKfI731A/featured)
 
 [Нужна ли методология?](https://github.com/feature-sliced/documentation/discussions/27)
 
