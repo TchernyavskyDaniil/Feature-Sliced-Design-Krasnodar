@@ -143,3 +143,9 @@ Plant UML:
 [Почему utils & helpers это свалка](https://sova.dev/ru/why-utils-and-helpers-is-a-dump/)
 
 [Структура моделей Effector](https://sova.dev/ru/effector-model-structure/)
+
+Eslint плагины для сортировки импортов
+
+[import-sort](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md)
+[sort-imports](https://eslint.org/docs/4.0.0/rules/sort-imports)
+[eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries)
