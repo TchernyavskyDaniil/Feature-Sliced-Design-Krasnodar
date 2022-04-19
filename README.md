@@ -144,6 +144,8 @@ Plant UML:
 
 [Структура моделей Effector](https://sova.dev/ru/effector-model-structure/)
 
+[Tight Coupling Vs Loose Coupling](https://youtu.be/ifufbHjIQCo)
+
 Eslint плагины для сортировки импортов
 
 [import-sort](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md)
