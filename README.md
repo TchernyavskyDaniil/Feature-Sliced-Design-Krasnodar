@@ -146,6 +146,8 @@ Plant UML:
 
 [Tight Coupling Vs Loose Coupling](https://youtu.be/ifufbHjIQCo)
 
+[Side effects free](https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free)
+
 Eslint плагины для сортировки импортов
 
 [import-sort](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md)
