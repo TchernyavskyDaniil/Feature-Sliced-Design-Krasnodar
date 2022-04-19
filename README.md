@@ -65,7 +65,7 @@
 
 [Про импорты](https://github.com/feature-sliced/documentation/discussions/52)
 
-[Про тришейкинг ре-экспортов](https://t.me/feature_sliced/4247) 
+[Про тришейкинг ре-экспортов](https://t.me/feature_sliced/4247), 
 [Side effects free](https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free)
 
 ### Про подходы к архитектуре (в приоритете с оглядкой на Frontend)
