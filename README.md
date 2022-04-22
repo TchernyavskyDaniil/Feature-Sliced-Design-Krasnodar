@@ -26,6 +26,8 @@ Soon
 
 ### Интересное по Feature Sliced
 
+[Awesome](https://feature-sliced.design/docs/community/awesome)
+
 [Eslint-config, CRA-template, CLI и многое полезеное по FS](https://github.com/orgs/feature-sliced/repositories) 
 
 [Про разделение хуков по смыслу](https://t.me/feature_sliced/11303)
