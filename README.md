@@ -1,3 +1,7 @@
+[Github Feature Sliced](https://github.com/feature-sliced)
+
+[Группа в Telegram](https://t.me/feature_sliced)
+
 # Feature-Sliced-Krasnodar
 
 ## Описание
@@ -6,10 +10,7 @@
 
 ## Презентация
 
-
-[Github Feature Sliced](https://github.com/feature-sliced)
-
-[Группа в Telegram](https://t.me/feature_sliced)
+Soon
 
 ## Материалы
 
