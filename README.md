@@ -159,6 +159,8 @@ Plant UML:
 
 [Tight Coupling Vs Loose Coupling](https://youtu.be/ifufbHjIQCo)
 
+[Low Coupling and High Cohesion](https://medium.com/german-gorelkin/low-coupling-high-cohesion-d36369fb1be9)
+
 Eslint плагины для сортировки импортов
 
 [import-sort](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md)
