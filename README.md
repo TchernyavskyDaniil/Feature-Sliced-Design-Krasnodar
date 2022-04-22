@@ -91,6 +91,8 @@ Soon
 
 [Еще про Vertical Slices](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 
+[Solid OCP](https://ota-solid.vercel.app/ocp)
+
 [Feature Driven Architecture - Oleg Isonen](https://youtu.be/BWAeYuWFHhs)
 
 [Live-coding: Чистая архитектура во фронтенде / Александр Беспоясов](https://youtu.be/h4WQRqNjmX0)
