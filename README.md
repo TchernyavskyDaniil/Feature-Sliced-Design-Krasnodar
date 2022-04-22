@@ -2,6 +2,8 @@
 
 [Группа в Telegram](https://t.me/feature_sliced)
 
+[Twitter](https://twitter.com/feature_sliced)
+
 # Feature-Sliced-Krasnodar
 
 ## Описание
