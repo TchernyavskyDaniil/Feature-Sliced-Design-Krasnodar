@@ -60,6 +60,8 @@ Soon
 
 [Интересное про Public API](https://github.com/feature-sliced/documentation/discussions/427)
 
+[Public API, Антихрупкость или все же Усточивость](https://github.com/feature-sliced/documentation/issues/227)
+
 [Про side effects free для Webpack, для Public API](https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free)
 
 [FS Angular разбор](https://github.com/feature-sliced/examples/discussions/17)
