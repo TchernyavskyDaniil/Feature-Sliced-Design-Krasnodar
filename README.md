@@ -116,7 +116,7 @@ Soon
 [Доклад Ильи Климова про бесконечный рефакторинг](https://youtu.be/aOiJ3k2UvO4)  
 
 [Тред](https://t.me/feature_sliced/13500) 
-[Бонус](https://github.com/feature-sliced/documentation/discussions/373#discussioncomment-1971208
+[Бонус](https://github.com/feature-sliced/documentation/discussions/373#discussioncomment-1971208)
 
 [С легаси](https://feature-sliced.design/docs/guides/migration/from-legacy)
          
