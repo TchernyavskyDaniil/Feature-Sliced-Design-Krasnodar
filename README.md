@@ -21,6 +21,8 @@
 
 [Презентация](https://docs.google.com/presentation/d/1OKtAOP4pQ0IZXyEHx0_L1jrOL_-m8Fyxuq_Cw13UxkA/edit#slide=id.p1)
 
+[Более свежая презентация, но без видосика, с закрытого выступления, Илья разрешил 👀](https://docs.google.com/presentation/d/1cTc0zYo96ftm0Ins8pWMqBE0PCzct8f_xiWbAgngILM/edit#slide=id.p1)
+
 ### Интересное по Feature Sliced
 
 [Eslint-config, CRA-template, CLI и многое полезеное по FS](https://github.com/orgs/feature-sliced/repositories) 
