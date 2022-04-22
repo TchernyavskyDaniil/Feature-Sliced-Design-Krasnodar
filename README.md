@@ -17,7 +17,7 @@
 
 Я бы очень советовал посмотреть этот доклад:
 
-[Доклад: Feature Sliced — Архитектура Frontend проектов / Илья Азин](https://youtu.be/SnzPAr_FJ7w)
+[Доклад: Feature Sliced — Архитектура Frontend проектов / Илья Азин](https://youtu.be/TFA6zRO_Cl0)
 
 [Презентация](https://docs.google.com/presentation/d/1OKtAOP4pQ0IZXyEHx0_L1jrOL_-m8Fyxuq_Cw13UxkA/edit#slide=id.p1)
 
