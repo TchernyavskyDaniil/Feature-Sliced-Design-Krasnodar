@@ -60,6 +60,8 @@ Soon
 
 [Формулировка определения "Feature"](https://github.com/feature-sliced/documentation/discussions/23#discussioncomment-451017)
 
+[Еще немного про Слои](https://t.me/feature_sliced/17686)
+
 [Интересное про Public API](https://github.com/feature-sliced/documentation/discussions/427)
 
 [Public API, Антихрупкость или все же Усточивость](https://github.com/feature-sliced/documentation/issues/227)
