@@ -1,3 +1,5 @@
+[Documentation](https://feature-sliced.design/)
+
 [Github Feature-Sliced Design](https://github.com/feature-sliced)
 
 [Группа в Telegram](https://t.me/feature_sliced)
