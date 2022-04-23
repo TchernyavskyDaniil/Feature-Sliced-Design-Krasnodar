@@ -140,6 +140,13 @@ Soon
 
 [Dependency Cruiser](https://github.com/sverweij/dependency-cruiser)
 
+[eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries)  
+
+На выбор по импорт сортировке:
+
+[import-sort](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md)  
+[sort-imports](https://eslint.org/docs/4.0.0/rules/sort-imports)  
+
 Plant UML:    
 
 [WS](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
@@ -169,9 +176,3 @@ Plant UML:
 [Tight Coupling Vs Loose Coupling](https://youtu.be/ifufbHjIQCo)
 
 [Low Coupling and High Cohesion](https://medium.com/german-gorelkin/low-coupling-high-cohesion-d36369fb1be9)
-
-Eslint плагины для сортировки импортов
-
-[import-sort](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md)
-[sort-imports](https://eslint.org/docs/4.0.0/rules/sort-imports)
-[eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries)
