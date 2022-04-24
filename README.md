@@ -159,7 +159,7 @@ Plant UML:
 
 [Нужна ли методология?](https://github.com/feature-sliced/documentation/discussions/27)
 
-[Про Feature Slices](https://t.me/feature_slices/2)
+[Про Feature Slices, хорошо подойдёт для начала](https://t.me/feature_slices/2)
 
 [Про декомпозицию и примеры](https://feature-sliced.design/docs/get-started/cheatsheet)
 
