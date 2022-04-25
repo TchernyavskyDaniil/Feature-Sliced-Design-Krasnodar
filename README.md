@@ -12,6 +12,8 @@
 
 ## Презентация
 
+На выступлении немного стили поехали в некоторых местах, тут актуальные пропорции 
+
 [Преза](https://docs.google.com/presentation/d/1nPihFkpF98gn4BcG0zGaKa2fT3yb9bF-7a4SdmVU-8Q/edit?usp=sharing)
 
 ## Материалы
