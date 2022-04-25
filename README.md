@@ -178,3 +178,5 @@ Plant UML:
 [Tight Coupling Vs Loose Coupling](https://youtu.be/ifufbHjIQCo)
 
 [Low Coupling and High Cohesion](https://medium.com/german-gorelkin/low-coupling-high-cohesion-d36369fb1be9)
+
+Отдельная благодарность организаторам, кор-тиме FSD за консультации, колежкам/друзьям за оценку презы и конечно WE ARE FORMOSHLEPLS
